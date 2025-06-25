@@ -62,6 +62,12 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyanandyadav&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+<h2 align="center">🏆 GitHub Profile Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vidyanandyadav&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidyanandyadav&show_icons=true&locale=en" alt="GitHub Stats" />
