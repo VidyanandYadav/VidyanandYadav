@@ -6,11 +6,10 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 **Aspiring Data Scientist** with a strong foundation in Python, SQL, and data visualization  
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (2023–2027)** at CSJMU  
-- 📊 Love working with **data analysis, visualization & machine learning**  
-- 🌱 Currently learning **advanced SQL, Power BI, and Tableau**  
-- 🤝 Open to collaborating on **open-source and real-world data projects**  
+I’m **Vidyanand Yadav**, a B.Tech Computer Science Engineering student (2023–2027) at CSJMU, passionate about **Data Science and Analytics**.  
+Skilled in **Python, Pandas, NumPy, SQL, and data visualization tools** like Power BI and Tableau, I enjoy exploring data to uncover meaningful insights.  
+Currently, I’m strengthening my knowledge in **data analysis, visualization, and machine learning** while seeking opportunities to apply my skills in real-world projects and open-source contributions.  
+
 
 ---
 
