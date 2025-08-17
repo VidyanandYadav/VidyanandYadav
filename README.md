@@ -1,84 +1,50 @@
-<h1 align="center">Hi 👋, I'm Vidyanand Yadav</h1>
-<h3 align="center">🎯 Aspiring Data Scientist | Passionate about turning data into insights</h3>
+# 👋 Hi, I'm Vidyanand Yadav  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidyanandyadav&label=Profile%20views&color=0e75b6&style=flat" alt="vidyanandyadav" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vidyanandyadav&theme=flat&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Trophies" />
-  </a>
-</p>
+🎓 B.Tech CSE Student (2023–2027) | Aspiring Data Scientist  
+💡 Passionate about **Data Analysis, Visualization, and Machine Learning**  
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me  
 
-- 🎓 B.Tech CSE'27 | Chhatrapati Shahu Ji Maharaj University  
-- 📊 Learning: Data Analysis, Streamlit, Git & Open Source  
-- 💡 Preparing for **GirlScript Summer of Code (GSSoC) 2025**  
-- 💻 Tech Stack: Python, Pandas, NumPy, Seaborn, Matplotlib, HTML  
-- 🧑‍💼 Open to collaborate on beginner-friendly open-source projects  
-- 📫 Reach me at: **deepuprince91@gmail.com**
+I’m **Vidyanand Yadav**, a B.Tech Computer Science Engineering student (2023–2027) at CSJMU, passionate about **Data Science and Analytics**.  
+Skilled in **Python, Pandas, NumPy, SQL, and data visualization tools** like Power BI and Tableau, I enjoy exploring data to uncover meaningful insights.  
+Currently, I’m strengthening my knowledge in **data analysis, visualization, and machine learning** while seeking opportunities to apply my skills in real-world projects and open-source contributions.  
 
 ---
 
-### 🌐 Connect with Me
+### 🔹 One-Liner Bio  
+**Aspiring Data Scientist | B.Tech CSE Student (2023–2027) | Python • SQL • Power BI • Tableau**  
 
+---
+
+### 🔹 Short Tagline  
+*"Turning data into insights, and insights into impact."*  
+
+---
+
+## 🛠️ Skills  
 <p align="left">
-  <a href="https://linkedin.com/in/vidyanand-yadav-481109322" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vidyanand_1863" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidyanandyadav&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidyanandyadav&theme=tokyonight" height="160"/>
+</p>
 
+---
+
+## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
+  <a href="mailto:deepuprince91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vidyanand-yadav-481109322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidyanandyadav&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyanandyadav&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidyanandyadav&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 Currently Working On
-
-- 📌 Personal dashboards using **Streamlit**
-- 📁 Uploading data science notebooks on GitHub
-- 📋 Preparing for **open source contributions in GSSoC 2025**
-
-> "Consistency beats motivation — and small progress is still progress." 🚀
