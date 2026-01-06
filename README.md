@@ -1,51 +1,56 @@
 <h1 align="center">Hi 👋, I'm Vidyanand Yadav</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<p align="center">
-B.Tech Computer Science student passionate about Data Science, Statistics, and
-turning data into meaningful insights.
+<br/>
+
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 About Me
+- 🎓 B.Tech Computer Science Engineering student  
+- 📊 Passionate about Data Science & Analytics  
+- 🧠 Strong foundation in Python & Statistics  
+- 🚀 Currently learning Data Science & Machine Learning  
+
+### 🎯 Current Focus
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Machine Learning fundamentals  
+
+### 🌐 Connect with Me
+<p>
+<a href="https://www.linkedin.com/in/vidyanand-yadav-481109322">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:deepuprince91@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
----
+</td>
 
-## 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Engineering student  
-- 📊 Interested in Data Analysis, Visualization & Machine Learning  
-- 🧠 Strong foundation in Python and Statistics  
-- 🚀 Actively learning and improving my data science skills  
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming
-- Python  
-- SQL  
-- HTML  
-- CSS  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sql,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
 
-### 📊 Data Science & Analytics
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Power BI / Tableau  
-- Machine Learning (Basic)  
-- Statistics  
-
----
-
-## 🎯 Current Focus
-- Learning **Data Science & Machine Learning**
-- Practicing **Exploratory Data Analysis (EDA)**
-- Improving data visualization skills
-- Working with real-world datasets
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/vidyanand-yadav-481109322  
-- 📧 Email: deepuprince91@gmail.com  
+<p align="center">
+NumPy • Pandas • Matplotlib • Seaborn •  
+Power BI / Tableau • Machine Learning (Basic) • Statistics
+</p>
 
 ---
 
@@ -59,5 +64,3 @@ turning data into meaningful insights.
 ---
 
 > *"Without data, you're just another person with an opinion."*
-
-⭐ Feel free to explore my repositories and connect with me!
