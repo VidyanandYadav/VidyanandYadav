@@ -2,79 +2,62 @@
 <h3 align="center">Data Science Enthusiast</h3>
 
 <p align="center">
-  Passionate about data, statistics, and turning raw information into meaningful insights.  
-  Currently learning Data Science & Machine Learning with a strong foundation in Python and analytics.
+B.Tech Computer Science student passionate about Data Science, Statistics, and
+turning data into meaningful insights.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech Computer Science student  
-- 📊 Interested in **Data Analysis, Visualization & Machine Learning**  
-- 🧠 Strong focus on **Statistics & problem-solving**  
-- 🚀 Constantly learning and improving my data skills  
+- 🎓 B.Tech Computer Science Engineering student  
+- 📊 Interested in Data Analysis, Visualization & Machine Learning  
+- 🧠 Strong foundation in Python and Statistics  
+- 🚀 Actively learning and improving my data science skills  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
-</p>
+### 💻 Programming
+- Python  
+- SQL  
+- HTML  
+- CSS  
 
 ### 📊 Data Science & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>
-
-- **Python**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
-- **SQL**
-- **Power BI / Tableau**
-- **Machine Learning (Basic)**
-- **Statistics**
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Power BI / Tableau  
+- Machine Learning (Basic)  
+- Statistics  
 
 ---
 
 ## 🎯 Current Focus
-- 📘 Learning **Data Science & Machine Learning**
-- 📈 Improving data visualization and analytical thinking
-- 🧪 Working on practice datasets and mini projects
+- Learning **Data Science & Machine Learning**
+- Practicing **Exploratory Data Analysis (EDA)**
+- Improving data visualization skills
+- Working with real-world datasets
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/vidyanand-yadav-481109322  
+- 📧 Email: deepuprince91@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VidyanandYadav&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidyanandYadav&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## ✨ Quote I Believe In
 > *"Without data, you're just another person with an opinion."*
-
----
 
 ⭐ Feel free to explore my repositories and connect with me!
