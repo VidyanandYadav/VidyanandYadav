@@ -42,9 +42,28 @@
 ## 🛠️ Skills & Tools
 
 ### 💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css" />
-</p>
+
+<table align="center">
+<tr>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=python" /><br/>
+    <b>Python</b>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=sql" /><br/>
+    <b>SQL</b>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=html" /><br/>
+    <b>HTML</b>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=css" /><br/>
+    <b>CSS</b>
+  </td>
+</tr>
+</table>
+
 
 ---
 
