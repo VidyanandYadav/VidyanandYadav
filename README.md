@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidyanand Yadav</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Python | Data Analysis | Machine Learning</h3>
 
 <br/>
 
@@ -50,7 +50,7 @@
     <b>Python</b>
   </td>
   <td align="center" width="120">
-    <img src="https://skillicons.dev/icons?i=sql" /><br/>
+    <img src="https://tse2.mm.bing.net/th/id/OIP.Ue2JZ0sSt-1MEZJNdi9IfwHaIi?rs=1&pid=ImgDetMain&o=7&rm=3" /><br/>
     <b>SQL</b>
   </td>
   <td align="center" width="120">
@@ -98,7 +98,7 @@
   <b>Tableau</b>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=scikit-learn" /><br/>
+  <img src="https://thumbs.dreamstime.com/b/creative-machine-learning-logo-artificial-intelligence-icon-technology-computing-concept-abstract-flat-vector-illustration-106384910.jpg" /><br/>
   <b>Machine Learning</b>
 </td>
 <td align="center" width="120">
