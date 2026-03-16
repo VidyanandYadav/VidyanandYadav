@@ -118,7 +118,6 @@
 
 </p>
 
-> *"Without data, you're just another person with an opinion."*
 
 ## 📈 Contribution Graph
 
@@ -127,5 +126,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidyanandYadav&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+
+> *"Without data, you're just another person with an opinion."*
 
 ---
