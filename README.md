@@ -76,15 +76,15 @@
   <b>NumPy</b>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=pandas" /><br/>
+  <img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" /><br/>
   <b>Pandas</b>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=matplotlib" /><br/>
+  <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" /><br/>
   <b>Matplotlib</b>
 </td>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=seaborn" /><br/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.NT69TZZt3WAFEtOi8AkluwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" /><br/>
   <b>Seaborn</b>
 </td>
 </tr>
