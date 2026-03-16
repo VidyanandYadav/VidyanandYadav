@@ -72,7 +72,7 @@
 <table align="center">
 <tr>
 <td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=numpy" /><br/>
+  <img src="https://seeklogo.com/images/N/numpy-logo-E05FDF6556-seeklogo.com.jpg" /><br/>
   <b>NumPy</b>
 </td>
 <td align="center" width="120">
@@ -110,7 +110,6 @@
 
 ---
 > *"Without data, you're just another person with an opinion."*
----
 ## 🔥 GitHub Streak
 
 <p align="center">
