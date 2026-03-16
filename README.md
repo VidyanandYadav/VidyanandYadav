@@ -109,7 +109,7 @@
 </table>
 
 ---
-> *"Without data, you're just another person with an opinion."*
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -117,6 +117,8 @@
 <img src="https://streak-stats.demolab.com?user=VidyanandYadav&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+> *"Without data, you're just another person with an opinion."*
 
 ## 📈 Contribution Graph
 
